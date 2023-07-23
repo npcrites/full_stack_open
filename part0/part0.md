@@ -4,7 +4,6 @@ The below sequence diagrams were created using Mermaid-syntax in a GitHub .md fi
 
 ### xxx
 
-```
 sequenceDiagram
     participant browser
     participant server
@@ -32,4 +31,3 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-```
